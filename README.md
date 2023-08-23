@@ -36,7 +36,7 @@ git checkout 1-typescript
   - 한글로도 정리 잘된 블로그들이 있다면 검색하여 참조할 것 ([예시](https://it-eldorado.tistory.com/128))
 
 #### 과제 : `@type/library` 와 같이 어떤 라이브러리를 사용하거든, 짝궁처럼 `@type/` 설치 필요
-
+- 라이브러리가 Typescript로 개발된 경우 이 라이브러리를 불러오면 타입을 추론을 제대로 할 수 없기 때문
 #### 과제 : 왜? `**@type/**` 가 package.json 의 devDependencies 내에 설치해야하는지 공부하기
 
 - NPM or YARN 설치시 `-D` 혹은 `--save` 옵션을 통해 설치해야한다
